@@ -1,6 +1,6 @@
 # File Structure Visualizer
 
-This little project is a file structure visualizer implemented using React TypeScript. It displays a hierarchical structure of files and folders, allowing users to expand and collapse the tree to explore the contents.
+This little project is a file structure visualizer implemented using React TypeScript. It displays a hierarchical structure of files and folders, allowing users to expand and collapse the tree to explore the contents. [Code pen](https://codepen.io/melahghislain/pen/PoXoeYr)
 
 ![Demo](/file-structure/public/demo.png)
 
